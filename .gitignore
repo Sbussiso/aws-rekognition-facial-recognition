@@ -1,0 +1,21 @@
+# Environment variables
+.env
+venv/
+rekognition_app.log
+me.jpg
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+/build/
+/dist/
+/*.egg-info/
+
+# Log files
+*.log
+
+# Other
+.vscode/ 
